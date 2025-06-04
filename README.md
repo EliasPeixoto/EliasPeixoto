@@ -1,7 +1,7 @@
 ## Olá 👋
 <div>
   <a href="github.com/EliasPeixoto">
-  <img height=180em  src="https://github-readme-stats.vercel.app/api?username=EliasPeixoto&show_icons=true&theme=github_dark&locale=pt-br&hide_rank=true&include_all_commits=true">
+  <img height=180em  src="https://github-readme-stats.vercel.app/api?username=EliasPeixoto&show_icons=true&theme=github_dark&locale=pt-br&hide_rank=true&include_all_commits=true">/n
   <img height=180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=EliasPeixoto&layout=pie&theme=github_dark">
 </div>
 <!--
