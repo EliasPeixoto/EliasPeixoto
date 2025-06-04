@@ -1,7 +1,9 @@
 ## Olá 👋
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EliasPeixoto&show_icons=true&theme=github_dark&locale=pt-br&hide_rank=true&include_all_commits=true)](https://github.com/EliasPeixoto/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EliasPeixoto&layout=pie&theme=github_dark)](https://github.com/EliasPeixoto/github-readme-stats)
+<div>
+  <a href="github.com/EliasPeixoto">
+  <img height=180em  src="https://github-readme-stats.vercel.app/api?username=EliasPeixoto&show_icons=true&theme=github_dark&locale=pt-br&hide_rank=true&include_all_commits=true">
+  <img height=180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=EliasPeixoto&layout=pie&theme=github_dark">
+</div>
 <!--
 **EliasPeixoto/EliasPeixoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
