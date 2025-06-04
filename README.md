@@ -1,8 +1,8 @@
 ## Olá 👋
 <div>
   <a href="github.com/EliasPeixoto">
-  <img height=180em  src="https://github-readme-stats.vercel.app/api?username=EliasPeixoto&show_icons=true&theme=github_dark&locale=pt-br&hide_rank=true&include_all_commits=true"><br>
-  <img height=360em src="https://github-readme-stats.vercel.app/api/top-langs/?username=EliasPeixoto&layout=pie&theme=github_dark">
+  <img widith=500em  src="https://github-readme-stats.vercel.app/api?username=EliasPeixoto&show_icons=true&theme=github_dark&locale=pt-br&hide_rank=true&include_all_commits=true"><br>
+  <img widith=500em src="https://github-readme-stats.vercel.app/api/top-langs/?username=EliasPeixoto&layout=pie&theme=github_dark">
 </div>
 <!--
 **EliasPeixoto/EliasPeixoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
